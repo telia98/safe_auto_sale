@@ -1,2 +1,13 @@
-LINK PER LA VISUALIZZAZIONE DELLE SLIDE DI PRESENTAZIONE
+*********** OBIETTIVO ***********
+Il progetto ha previsto la definizione di uno smart contract in linguaggio Solidity per la blockchain Ethereum
+e lo sviluppo di una DApp in linguaggio Java per la sua interrogazione.
+
+Il problema da risolvere era quello di poter evitare che in caso di vendita e acquisto di un'autovettura,
+acquirente o venditore potessero essere lesi o truffati da eventuali informazioni falsificate che potevano essere fornite in relazione ad un'autovettura d'interesse.
+Lo smart contract si è rivelato essere una soluzione a tale problema in quanto consentiva di memorizzare le informazioni di una lista di autovetture d'interesse in maniera immutabile all'interno di una blockchain.
+In questo modo, si è potuto garantire:
+- ad un acquirente, che le informazioni mantenute sull'autovettura fossero consistenti e corrette;
+- ad un venditore, che l'auto in vendita non potesse essere in alcun modo svalutata né tantomeno falsificata nei dettagli.
+
+Per maggiori informazioni più dettagliate visualizzare la presentazione al seguente link:
 https://www.canva.com/design/DAFLkFynKvs/Rt70nelEEepWvhiAtEwEag/view?utm_content=DAFLkFynKvs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
